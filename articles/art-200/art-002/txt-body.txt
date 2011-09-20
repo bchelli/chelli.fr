@@ -1,0 +1,2 @@
+<h1>Les Ateliers de la Maille</h1>
+<a href="http://www.lesateliersdelamaille.com/" target="_blank">link to the website</a><br />

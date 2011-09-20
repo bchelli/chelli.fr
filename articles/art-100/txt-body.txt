@@ -1,0 +1,5 @@
+<h1>Pick or Skip</h1>
+<a href="http://www.pickorskip.com/" target="_blank">link to the website</a><br />
+<br />
+<p>Pick or Skip is a <b>social network</b> based on <b>online video chat</b>.</p>
+<p>This platform is designed to be auto-scaled, using <b>Amazon EC2</b>. Video streams are broadcasted through <b>RTMFP/RTMP</b> protocol.</p>

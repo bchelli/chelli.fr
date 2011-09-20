@@ -1,0 +1,8 @@
+#home-menu{float:right;width:170px;}
+	#home-menu ul{list-style:none;padding:0;margin:0;}
+		#home-menu ul li{width:128px;text-align:center;margin-bottom:30px}
+			#home-menu ul li a{color:#333;text-decoration:none;}
+
+#intro{width:650px;padding:60px 20px;float:left;}
+	#intro h1{padding:0;margin:0}
+	#intro p{text-align:justify}

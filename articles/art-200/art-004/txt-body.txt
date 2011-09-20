@@ -1,0 +1,2 @@
+<h1>SushiWest</h1>
+<a href="http://www.sushiwest.fr/" target="_blank">link to the website</a><br />

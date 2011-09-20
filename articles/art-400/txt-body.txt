@@ -1,0 +1,5 @@
+<h1>Livdom.com</h3>
+<a href="http://www.livdom.com/" target="_blank">link to the website</a><br />
+<br />
+<p>I was leading the creation of an <b>E-Commerce Platform</b> for restaurant.</p>
+<p>This platform is <b>AJAX</b> friendly and based on the technologies: <b>IPscript, XHTML, CSS, JQuery and MySQL</b>.</p>

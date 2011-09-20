@@ -1,0 +1,27 @@
+@font-face{font-family: Glasket; src: url('../fonts/glasket500.ttf');}
+
+.ws{width:900px;margin:auto;}
+.cl{clear:both;}
+body{font-size:12px;margin:0;padding:0;}
+body,a{color:#eee;font-family:"Arial";}
+b{color:#0B6E97}
+html,body{background:#EBEBEB;margin:0;padding:0;height: 100%;}
+#wrapper {min-height: 100%;}
+	#header{background:#3C3D3F url(../img/header-bg.png) repeat-x 0 bottom;padding-bottom:2px;}
+		#header .ws{position:relative;backgro-und:url(../img/header-content-bg.png) no-repeat 150px -90px;}
+			#logo {float:left;margin: 14px 16px 0 0;height:91px;border: 2px solid #222;}
+			#title {padding:15px 0 10px;font-family:Glasket;font-size:40px;}
+			#sstitle {padding:0 0 20px;}
+			#menu{position:absolute;bottom:15px;right:0;}
+				#menu ul{padding:0;margin:0;list-style:none;}
+					#menu ul li{float:left;border-left:1px solid #555;border-right:1px solid #222;padding:0 10px;}
+						#menu ul li a{text-decoration:none;color:#fff;padding:3px 10px;line-height:30px;font-size:14px;}
+						#menu ul li a:hover{background:#555;border-radius:15px}
+						#menu ul li.selected a{background:#777;border-radius:15px}
+					#menu ul li.first{border-left:none;}
+					#menu ul li.last{border-right:none;}
+	#content{margin:20px auto 0 auto;padding-bottom:50px;color:#333;}
+		#content a{color:#003F8C;}
+
+#footer{height:30px;background:#3C3D3F url(../img/footer-bg.png) repeat-x 0 0;margin-top:-30px;position:relative;clear:both}
+	#footer .ws{line-height:30px;text-align:center;}

@@ -1,0 +1,18 @@
+#slider {width:850px;margin:0 auto;position:relative;}
+	#slider .scroll {overflow: hidden;position: relative;clear:left;background:#fff;border-bottom:1px solid #ccc;}
+		#slider .scrollContainer {overflow: hidden;}
+			#slider .scrollContainer div.panel {padding:20px;width:810px;}
+				#slider .scrollContainer div.panel .img-principale {float:left;margin: 0 20px 0 0;border:4px solid #333;padding:2px;}
+
+	#slider ul.navigation {list-style: none;margin:20px 0 0 0;padding: 0;border-bottom:1px solid #ccc;height:50px;}
+		#slider ul.navigation li {float:left;}
+			#slider ul.navigation a {padding:5px 5px;color:#333;text-decoration: none;text-align: center;display:block;border-right:1px solid #ccc;height:40px;}
+			#slider ul.navigation a.first {border-left:1px solid #ccc;margin-left:40px}
+			#slider ul.navigation a:hover {background:repeat-x 0 0 url(../img/coda-onglet-bg-hover.png);}
+			#slider ul.navigation a.selected {background:repeat-x 0 0 url(../img/coda-onglet-bg-selected.png);height:41px;}
+			#slider ul.navigation a:focus {outline: none}
+
+	#slider .scrollButtons {position: absolute;top:15px;cursor: pointer;}
+	#slider .scrollButtons.left {left: 10px;}
+	#slider .scrollButtons.right {right: 10px;}
+

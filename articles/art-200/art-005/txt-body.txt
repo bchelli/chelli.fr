@@ -1,0 +1,2 @@
+<h1>Izac.fr</h1>
+<a href="http://www.izac.fr/" target="_blank">link to the website</a><br />

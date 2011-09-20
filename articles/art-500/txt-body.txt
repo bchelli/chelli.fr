@@ -1,0 +1,6 @@
+<h1>Publing.com</h3>
+<a href="http://www.publing.com/" target="_blank">link to the website</a><br />
+<br />
+<p>Architectural design and creation of a <b>social</b> and <b>geo-location</b> website.</p>
+<p>Application development in AJAX, HTML (handwritten), Delphi Scripting Engine (IPScript), CSS and MySQL.</p>
+<p>Wrote entire framework of the project using <b>“prototype.js”</b> library and <b>Google Maps API</b>.</p>

@@ -1,0 +1,10 @@
+<h1>Fastmag eCommerce</h3>
+<a href="http://www.fastmag.fr/page.ips?p=commerce" target="_blank">link to the website</a><br />
+<br />
+<p>In a team of 4 people, I was leading the creation of an <b>E-Commerce Platform</b> for trades of Fashion.</p>
+<p>The platform is <b>AJAX</b> friendly and based on the technologies: <b>PHP, XHTML, CSS, JQuery and MySQL</b>.</p>
+<p>For the occasion we wrote a custom and very efficient <b>template processor</b> with custom <b>caching system</b>.</p>
+<br />
+<br />
+<br />
+<h2>Here are some implementations of this platform.</h2>

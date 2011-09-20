@@ -1,0 +1,2 @@
+<h1>Berenice.net</h1>
+<a href="http://www.berenice.net/" target="_blank">link to the website</a><br />

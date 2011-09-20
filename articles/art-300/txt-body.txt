@@ -1,0 +1,5 @@
+<h1>Demo website</h3>
+<a href="http://ebusiness.fastmagdemo.com/" target="_blank">link to the website</a><br />
+<br />
+<p>Fastmag eBusiness is a B2B eCommerce platform to manage store replenishment and pre-order new collections.</p>
+<p>It's a really powerful application that uses the ERP Database to generate, on one click, a professional commerce website.</p>
